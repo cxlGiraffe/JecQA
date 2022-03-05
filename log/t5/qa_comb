@@ -1,0 +1,26 @@
+2021-12-29 09:39:21,343 - INFO - train on cuda:0
+2021-12-29 09:52:35,543 - INFO - epoch:0,loss:8.67777
+2021-12-29 10:05:49,539 - INFO - epoch:1,loss:2.28957
+2021-12-29 10:19:02,013 - INFO - epoch:2,loss:1.52417
+2021-12-29 10:19:46,532 - INFO - epoch:2,valid_single_acc:0.05680,valid_acc:0.02800,valid_precision:0.25508,valid_recall:0.07208,valid_f1:0.09558
+2021-12-29 10:33:13,206 - INFO - epoch:3,loss:0.82893
+2021-12-29 10:33:57,792 - INFO - epoch:3,valid_single_acc:0.00406,valid_acc:0.00200,valid_precision:0.16667,valid_recall:0.00109,valid_f1:0.00216
+2021-12-29 10:47:10,131 - INFO - epoch:4,loss:0.51280
+2021-12-29 10:47:54,697 - INFO - epoch:4,valid_single_acc:0.00000,valid_acc:0.00000,valid_precision:0.00000,valid_recall:0.00000,valid_f1:0.00000
+2021-12-29 11:01:06,639 - INFO - epoch:5,loss:0.58938
+2021-12-29 11:01:51,079 - INFO - epoch:5,valid_single_acc:0.00000,valid_acc:0.00000,valid_precision:0.00000,valid_recall:0.00000,valid_f1:0.00000
+2021-12-29 11:15:01,774 - INFO - epoch:6,loss:0.42622
+2021-12-29 11:15:45,012 - INFO - epoch:6,valid_single_acc:0.00000,valid_acc:0.00000,valid_precision:0.00000,valid_recall:0.00000,valid_f1:0.00000
+2021-12-29 11:28:55,536 - INFO - epoch:7,loss:0.40623
+2021-12-29 11:29:39,709 - INFO - epoch:7,valid_single_acc:0.07099,valid_acc:0.05200,valid_precision:0.66142,valid_recall:0.13272,valid_f1:0.21462
+2021-12-29 11:43:16,750 - INFO - epoch:8,loss:0.45530
+2021-12-29 11:44:00,381 - INFO - epoch:8,valid_single_acc:0.10345,valid_acc:0.05100,valid_precision:0.07527,valid_recall:0.02817,valid_f1:0.04100
+2021-12-29 11:57:14,068 - INFO - epoch:9,loss:0.39210
+2021-12-29 11:57:58,372 - INFO - epoch:9,valid_single_acc:0.00000,valid_acc:0.00000,valid_precision:0.00000,valid_recall:0.00000,valid_f1:0.00000
+2021-12-29 12:11:10,329 - INFO - epoch:10,loss:0.38468
+2021-12-29 12:11:59,929 - INFO - epoch:10,valid_single_acc:0.00000,valid_acc:0.00000,valid_precision:0.00000,valid_recall:0.00000,valid_f1:0.00000
+2021-12-29 12:25:10,771 - INFO - epoch:11,loss:0.52330
+2021-12-29 12:25:54,490 - INFO - epoch:11,valid_single_acc:0.00000,valid_acc:0.00000,valid_precision:0.00000,valid_recall:0.00000,valid_f1:0.00000
+2021-12-29 12:39:05,160 - INFO - epoch:12,loss:0.37673
+2021-12-29 12:39:49,039 - INFO - epoch:12,valid_single_acc:0.00000,valid_acc:0.00000,valid_precision:0.00000,valid_recall:0.00000,valid_f1:0.00000
+2021-12-29 12:39:49,039 - INFO - Early stopping

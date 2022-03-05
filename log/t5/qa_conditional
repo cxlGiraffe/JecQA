@@ -1,0 +1,16 @@
+2021-12-17 20:32:15,501 - INFO - train on cuda:0
+2021-12-17 20:59:47,881 - INFO - epoch:0,loss:4.67267
+2021-12-17 21:03:53,427 - INFO - epoch:0,valid_acc:0.00400,valid_precision:0.36334,valid_recall:0.01690,valid_f1:0.03157
+2021-12-17 21:31:26,850 - INFO - epoch:1,loss:0.02827
+2021-12-17 21:35:34,729 - INFO - epoch:1,valid_acc:0.07000,valid_precision:0.38296,valid_recall:0.36441,valid_f1:0.29520
+2021-12-17 22:03:08,451 - INFO - epoch:2,loss:0.03413
+2021-12-17 22:07:17,778 - INFO - epoch:2,valid_acc:0.00000,valid_precision:0.30833,valid_recall:0.00244,valid_f1:0.00483
+2021-12-17 22:34:42,368 - INFO - epoch:3,loss:0.01141
+2021-12-17 22:39:08,020 - INFO - epoch:3,valid_acc:0.04750,valid_precision:0.51514,valid_recall:0.15594,valid_f1:0.21238
+2021-12-17 23:06:26,350 - INFO - epoch:4,loss:0.01092
+2021-12-17 23:10:32,850 - INFO - epoch:4,valid_acc:0.04150,valid_precision:0.50676,valid_recall:0.20169,valid_f1:0.25638
+2021-12-17 23:38:03,461 - INFO - epoch:5,loss:0.06242
+2021-12-17 23:42:14,770 - INFO - epoch:5,valid_acc:0.03100,valid_precision:0.65083,valid_recall:0.16030,valid_f1:0.17809
+2021-12-18 00:09:45,596 - INFO - epoch:6,loss:0.01232
+2021-12-18 00:13:52,858 - INFO - epoch:6,valid_acc:0.01200,valid_precision:0.50357,valid_recall:0.09010,valid_f1:0.13223
+2021-12-18 00:13:52,858 - INFO - Early stopping

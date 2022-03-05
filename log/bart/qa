@@ -1,0 +1,22 @@
+2021-12-19 13:42:48,835 - INFO - train on cuda:1
+2021-12-19 14:34:27,554 - INFO - epoch:0,loss:0.68052
+2021-12-19 14:36:08,874 - INFO - epoch:0,valid_acc:0.04300,valid_precision:0.63566,valid_recall:0.39507,valid_f1:0.48602
+2021-12-19 15:28:12,908 - INFO - epoch:1,loss:0.65369
+2021-12-19 15:29:54,199 - INFO - epoch:1,valid_acc:0.06300,valid_precision:0.61796,valid_recall:0.53356,valid_f1:0.57034
+2021-12-19 16:21:18,418 - INFO - epoch:2,loss:0.65012
+2021-12-19 16:22:59,388 - INFO - epoch:2,valid_acc:0.06600,valid_precision:0.62972,valid_recall:0.49723,valid_f1:0.55288
+2021-12-19 17:14:58,575 - INFO - epoch:3,loss:0.64956
+2021-12-19 17:16:39,832 - INFO - epoch:3,valid_acc:0.06650,valid_precision:0.57184,valid_recall:0.64986,valid_f1:0.60658
+2021-12-19 18:07:50,845 - INFO - epoch:4,loss:0.64786
+2021-12-19 18:09:30,704 - INFO - epoch:4,valid_acc:0.08000,valid_precision:0.58479,valid_recall:0.62158,valid_f1:0.59928
+2021-12-19 19:00:39,984 - INFO - epoch:5,loss:0.64644
+2021-12-19 19:02:20,608 - INFO - epoch:5,valid_acc:0.07100,valid_precision:0.56529,valid_recall:0.68330,valid_f1:0.61854
+2021-12-19 19:52:53,939 - INFO - epoch:6,loss:0.64807
+2021-12-19 19:54:34,277 - INFO - epoch:6,valid_acc:0.06200,valid_precision:0.60595,valid_recall:0.56696,valid_f1:0.58546
+2021-12-19 20:45:08,264 - INFO - epoch:7,loss:0.64926
+2021-12-19 20:46:47,614 - INFO - epoch:7,valid_acc:0.04300,valid_precision:0.64122,valid_recall:0.38732,valid_f1:0.48291
+2021-12-19 21:37:25,993 - INFO - epoch:8,loss:0.64904
+2021-12-19 21:39:06,932 - INFO - epoch:8,valid_acc:0.04700,valid_precision:0.63609,valid_recall:0.42301,valid_f1:0.50782
+2021-12-19 22:29:43,363 - INFO - epoch:9,loss:0.65035
+2021-12-19 22:31:24,140 - INFO - epoch:9,valid_acc:0.06350,valid_precision:0.60150,valid_recall:0.55063,valid_f1:0.57430
+2021-12-19 22:31:24,140 - INFO - Early stopping

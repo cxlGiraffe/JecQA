@@ -1,0 +1,1111 @@
+epoch:0
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+epoch:1
+extra0 错 extra1 对 extra3 错
+
+
+
+extra0 错 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 错
+extra0 错 extra1 对 extra3 错
+
+extra0 对 extra1 对 extra3 错
+
+
+extra0 错 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 对
+extra0 错 extra1 对 extra3 错
+
+extra0 对 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 错
+
+extra0 对 extra1 对 extra2 错
+
+extra0 错 extra1 对 extra2 错
+
+extra0 对 extra1 对 extra3 对
+extra0 对 extra1 对 extra3 错
+
+extra0 对 extra1 对 extra3 对
+
+extra0 对 extra1 对 extra3 错
+extra0 错 extra1 对 extra3 错
+extra0 错 extra1 对 extra3 错
+
+
+extra0 对 extra1 对 extra3 对
+extra0 错 extra1 对 extra3 错
+
+extra0 对 extra1 对 extra3 对
+extra0 错 extra1 对 extra3 错
+
+
+
+extra0 错 extra1 对 extra3 错
+
+
+extra0 错 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 错
+
+extra0 对 extra1 对 extra3 对
+extra0 对 extra1 对 extra3 对
+extra0 对 extra1 对 extra3 错
+extra0 错 extra1 错 extra2 错
+
+
+
+
+extra0 对 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 错
+extra0 错 extra1 错 extra2 错
+
+
+
+extra0 对 extra1 对 extra3 错
+
+extra0 错 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 对
+
+
+
+extra0 对 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 对
+extra0 对 extra1 对 extra3 错
+extra0 错 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 错
+extra0 错 extra1 对 extra3 错
+extra0 错 extra1 对 extra3 错
+
+extra0 对 extra1 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 对 extra3 错
+
+
+extra0 对 extra1 对 extra3 错
+extra0 对 extra1 对 extra2 错
+extra0 错 extra1 对 extra2 错
+extra0 错 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 对
+extra0 错 extra1 对 extra3 错
+
+
+extra0 错 extra1 对 extra3 错
+extra0 错 extra1 对 extra3 错
+
+extra0 对 extra1 对 extra3 错
+
+extra0 错 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 错
+extra0 对 extra1 对 extra3 对
+epoch:2
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+extra0 错 extra1 错 extra2 错
+epoch:3
+
+
+
+
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+
+extra0 错 extra1 对 extra2 错 extra3 错
+
+
+
+
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+extra0 错 extra1 对 extra2 错 extra3 错
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+
+
+
+
+
+
+
+
+extra0 错 extra1 对 extra2 错 extra3 错
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+
+
+
+
+
+
+
+
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+
+
+
+
+
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+
+epoch:4
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 错 extra2 错 extra3 错
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+epoch:5
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra2 错 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 错
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra3 对
+extra0 错 extra1 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+epoch:6
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+epoch:7
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 对 extra2 错 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 对 extra2 错 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 错 extra2 错 extra3 错
+
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 错 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+epoch:8
+
+extra0 对 extra1 对 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 错 extra2 错 extra3 对
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 对 extra1 对 extra2 错 extra3 对
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 错 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+epoch:9
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 错 extra2 错 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 对 extra1 对 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 错 extra3 对
+
+extra0 对 extra1 对 extra2 错 extra3 对
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+epoch:10
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+
+extra0 对 extra1 对 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+
+
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+
+
+extra0 错 extra1 错 extra2 错 extra3 对
+
+
+extra0 错 extra1 对 extra2 错 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+
+extra0 对 extra1 对 extra2 对 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 错 extra3 对
+
+
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+
+
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 错 extra1 错 extra2 对 extra3 错
+
+
+extra0 错 extra1 错 extra2 错 extra3 对
+extra0 对 extra1 对 extra2 对 extra3 对

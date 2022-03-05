@@ -1,0 +1,24 @@
+2021-12-19 11:41:11,997 - INFO - train on cuda:0
+2021-12-19 12:08:35,704 - INFO - epoch:0,loss:4.84497
+2021-12-19 12:12:52,262 - INFO - epoch:0,valid_acc:0.00000,valid_precision:0.00000,valid_recall:0.00000,valid_f1:0.00000
+2021-12-19 12:40:10,111 - INFO - epoch:1,loss:0.03497
+2021-12-19 12:44:11,897 - INFO - epoch:1,valid_acc:0.05900,valid_precision:0.55112,valid_recall:0.25236,valid_f1:0.26940
+2021-12-19 13:11:57,080 - INFO - epoch:2,loss:0.01206
+2021-12-19 13:15:55,144 - INFO - epoch:2,valid_acc:0.00000,valid_precision:0.00000,valid_recall:0.00000,valid_f1:0.00000
+2021-12-19 13:43:12,703 - INFO - epoch:3,loss:0.02700
+2021-12-19 13:47:18,640 - INFO - epoch:3,valid_acc:0.01950,valid_precision:0.50869,valid_recall:0.11543,valid_f1:0.18734
+2021-12-19 14:14:36,334 - INFO - epoch:4,loss:0.01023
+2021-12-19 14:18:41,917 - INFO - epoch:4,valid_acc:0.12150,valid_precision:0.50024,valid_recall:0.75860,valid_f1:0.60222
+2021-12-19 14:46:06,237 - INFO - epoch:5,loss:0.01108
+2021-12-19 14:50:18,693 - INFO - epoch:5,valid_acc:0.18650,valid_precision:0.58041,valid_recall:0.54964,valid_f1:0.55115
+2021-12-19 15:17:43,618 - INFO - epoch:6,loss:0.06224
+2021-12-19 15:21:53,979 - INFO - epoch:6,valid_acc:0.17000,valid_precision:0.55011,valid_recall:0.68142,valid_f1:0.60365
+2021-12-19 15:49:11,155 - INFO - epoch:7,loss:0.00945
+2021-12-19 15:53:21,925 - INFO - epoch:7,valid_acc:0.13150,valid_precision:0.57286,valid_recall:0.41892,valid_f1:0.47440
+2021-12-19 16:20:39,859 - INFO - epoch:8,loss:0.00923
+2021-12-19 16:24:39,685 - INFO - epoch:8,valid_acc:0.10600,valid_precision:0.58629,valid_recall:0.22606,valid_f1:0.29601
+2021-12-19 16:51:57,093 - INFO - epoch:9,loss:0.00916
+2021-12-19 16:56:05,566 - INFO - epoch:9,valid_acc:0.10750,valid_precision:0.60008,valid_recall:0.27493,valid_f1:0.35964
+2021-12-19 17:23:22,284 - INFO - epoch:10,loss:0.01007
+2021-12-19 17:27:27,932 - INFO - epoch:10,valid_acc:0.11800,valid_precision:0.55507,valid_recall:0.20488,valid_f1:0.27616
+2021-12-19 17:27:27,932 - INFO - Early stopping
